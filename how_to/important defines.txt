@@ -1,0 +1,12 @@
+create a file called "Submod_name_macros.hpp" in the Submod maindir, in there you have to define:
+
+#define MODFOLDER pubsec //exchange "pubsec" for Submod folder name
+
+#define MODSUFFIX police //exchange "police" for a clearly identifyable name for the submod, it is used as suffix for all assets
+
+You can also just copy the file form "pubsec" and then exchange those two things
+
+
+See "infos" folder for more infos about the format and the macros.
+
+

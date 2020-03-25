@@ -1,0 +1,7 @@
+copy that folder structure and then rename the folders accordingly to the schema provided in "Name_list.csv".
+
+All the files beginning with !dummy! are to show where to put what and are as the name implies empty and dummies.
+
+The whole organisation system (and how the macros integrate is descriped in the "Info" folder as text and infographic.
+
+A .bat file is in development to automate this.
