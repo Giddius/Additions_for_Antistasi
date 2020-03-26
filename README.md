@@ -59,7 +59,7 @@ currently, needs RHS for the first Wave (only because of the predefined Unit equ
 
 ### Format guides
 
-**[Please see this page for everything regarding the structure and format you should be using](Infos/Format_Guide/README.md)**
+**[Please see this page for everything regarding the structure and format you should be using](Infos/Format_Guide)**
 
 ### :vertical_traffic_light: What this mod should be and what not
 
