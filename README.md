@@ -6,7 +6,7 @@
 ---
 # Additions for Antistasi by Broca Dilettante Studio Models [BDSM]
 
-[Prerelease]
+**[Prerelease]**
 Arma 3 Mod
 
 Adding items and factions to make Antistasi more immersive, less reliant on DLC and generally stuff to overcome limitations of Vanilla in Antistasi. Currently, not implemented directly by the Antistasi Devs, but I hope it will be. If you like the additions in general please let me know!
@@ -15,18 +15,21 @@ Adding items and factions to make Antistasi more immersive, less reliant on DLC 
 
 ## Current Submods
 
-### Public Security (Folder name: **"pub sec"** )
+### Public Security
+(Folder name: **"pubsec"** )
  > * 3 Police Factions (Altis Constabulary Guard, Tanoa Garde champêtre, Registered Cossacks of Chernarus)
  > * Police Belt, Police Hat and Police Helmet as new models. With texture variants for the 3 factions.
  > * Re textured Uniforms for the 3 factions each 1 standard and 1 special forces unit uniform
  > * re textured car and Little Bird for the 3 factions
  > * Police station building in a large and small variant
 
-### HQ extras (Folder name: **"hqextras"** )
+### HQ extras
+(Folder name: **"hqextras"** )
  > * A new Bunker for the rebels to build, that is designed to not have the problems the current bunker causes
  > * A new Anti-Air static in the early stages of development
 
-### Misc (Folder name: **"misc"** )
+### Misc
+(Folder name: **"misc"** )
  > * Undercover Long Range Radio Backpack, with an extra variant with the radio part removed
 
 ---
@@ -126,7 +129,7 @@ I know macros are seen as bad coding, but for me they are preventing some stupid
 
 ###Link to Blender files and unbinarized p3d
 
-**[Dropbox Link to the files, because they are to large for Github]https://www.dropbox.com/sh/aw8a5y7cvpguoxo/AACRZtDWg0pDCUJZYzMeObc7a?dl=0**
+**[Dropbox Link to the files, because they are to large for Github](https://www.dropbox.com/sh/aw8a5y7cvpguoxo/AACRZtDWg0pDCUJZYzMeObc7a?dl=0)**
 
 
 ## Authors
