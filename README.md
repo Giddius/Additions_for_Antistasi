@@ -1,6 +1,6 @@
 
 
-![AfA](Info/afa_head_picture.jpeg)
+![AfA](Info/images_github/afa_head_picture.jpeg)
 
 
 ---
@@ -59,7 +59,7 @@ currently, needs RHS for the first Wave (only because of the predefined Unit equ
 
 ### Format guides
 
-**[Please see this page for everything regarding the structure and format you should be using](how_to/formatting_guide.md)**
+**[Please see this page for everything regarding the structure and format you should be using](Info/Format_Guide/README.md)**
 
 ### :vertical_traffic_light: What this mod should be and what not
 

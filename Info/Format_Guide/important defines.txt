@@ -1,3 +1,5 @@
+! You can also just use the batch file under tools !
+
 create a file called "Submod_name_macros.hpp" in the Submod maindir, in there you have to define:
 
 #define MODFOLDER pubsec //exchange "pubsec" for Submod folder name
