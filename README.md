@@ -125,7 +125,7 @@ The folder structure is also grown out of the macro use.
 I know macros are seen as bad coding, but for me they are preventing some stupid mistakes and helping me to not waste productiveness typing.
 
 ---
-## external Resources
+## External Resources
 
 ### Link to Blender files and unbinarized p3d
 
