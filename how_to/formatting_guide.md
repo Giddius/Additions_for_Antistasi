@@ -1,4 +1,4 @@
 
 ## Names
 
-![Names explained](how_to/File_Name_explained.png)
+![Names explained](how_to/File_Name_explained.jpg)
