@@ -53,28 +53,29 @@ class CfgPatches //needs to always be in an Arma config
 
 //▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄_Editor Subcategories, Factions, Insignia, Markers_▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀//
 
-#include "\AfA\Addons\pubsec\macros\X_EditorSubcat_Faction_Insignia_Marker.hpp" //combined file to generate Editor Subcategories, Factions, Insignia, Markers using XMacros
+//combined file to generate Editor Subcategories, Factions, Insignia, Markers using XMacros
+#include "\AfA\Addons\pubsec\macros\X_EditorSubcat_Faction_Insignia_Marker.hpp"
 
 //▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄_Cfg Weapons_▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀//
 
 class CfgWeapons
 {
-#include "\AfA\Addons\pubsec\macros\Hats_CfgWeapons.hpp" //generates Police Hat entries using XMacros
+	#include "\AfA\Addons\pubsec\macros\Hats_CfgWeapons.hpp" //generates Police Hat entries using XMacros
 
-#include "\AfA\Addons\pubsec\macros\Helmets_CfgWeapons.hpp" //generates Police Helmet entries using XMacros
+	#include "\AfA\Addons\pubsec\macros\Helmets_CfgWeapons.hpp" //generates Police Helmet entries using XMacros
 
-#include "\AfA\Addons\pubsec\macros\Vests_CfgWeapons.hpp" //generates Police Vests (currently only Belt) entries using XMacros
+	#include "\AfA\Addons\pubsec\macros\Vests_CfgWeapons.hpp" //generates Police Vests (currently only Belt) entries using XMacros
 
-#include "\AfA\Addons\pubsec\macros\Uniforms_CfgWeapons.hpp" //generates Police Uniform entries using XMacros
+	#include "\AfA\Addons\pubsec\macros\Uniforms_CfgWeapons.hpp" //generates Police Uniform entries using XMacros
 };
 
 //▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄_Cfg Vehicles_▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀//
 
 class CfgVehicles
 {
-#include "\AfA\Addons\pubsec\macros\Uniforms_CfgVehicles.hpp" //generates Police Uniform entries that are required in CfgVehicles using XMacros
+	#include "\AfA\Addons\pubsec\macros\Uniforms_CfgVehicles.hpp" //generates Police Uniform entries that are required in CfgVehicles using XMacros
 
-#include "\AfA\Addons\pubsec\macros\Patrol_Policeman_Soldiers.hpp" //generates standard Police Soldiers
+	#include "\AfA\Addons\pubsec\macros\Patrol_Policeman_Soldiers.hpp" //generates standard Police Soldiers
 };
 
 //▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄_Cfg Groups _▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀//
