@@ -93,11 +93,11 @@ currently, needs RHS for the first Wave (only because of the predefined Unit equ
 
 > **Note:** *Sub mod specific Todo's are in each sub mod folder.*
 
--[ ] create HQ extras sub mod folders
--[ ] write how_to readme
--[ ] create diagrams for structure
--[ ] create visual guides for readme
--[ ] create batch(?) file to automatically enter the "files called" in the header comments
+- [ ] create HQ extras sub mod folders
+- [ ] write how_to readme
+- [ ] create diagrams for structure
+- [ ] create visual guides for readme
+- [ ] create batch(?) file to automatically enter the "files called" in the header comments
 
 ---
 
