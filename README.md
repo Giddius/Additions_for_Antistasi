@@ -1,6 +1,6 @@
 
 
-![AfA](https://github.com/Giddius/Additions_for_Antistasi/blob/development/Info/images_github/File_Name_explained.jpeg)
+![AfA](Info/images_github/afa_head_picture.jpeg)
 
 
 ---
