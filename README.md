@@ -103,6 +103,7 @@ currently, needs RHS for the first Wave (only because of the predefined Unit equ
 - [x] create diagrams for structure
 - [ ] create visual guides for readme
 - [ ] create batch(?) file to automatically enter the "files called" in the header comments
+- [ ] Add previews to the submod list above
 
 ---
 
