@@ -16,8 +16,8 @@ TYPE CON > temp_list.txt
 For /F "tokens=1 delims= " %%G in (temp_list.txt) do MD "Objects\%ITEMTYPE%_%MODSUFFIX%\tex\%%G_%ITEMTYPE%_%MODSUFFIX%"
 
 Echo Subfolders created
-Echo Do you want to create empty files for the standard files, so you have the file name already set [Y] or [N]
-CHOICE /C YN /M Do you want to create empty files for the standard files, so you have the file name already set
+
+CHOICE /C YN /M "Do you want to create empty files for the standard files, so you have the file name already set"
 IF %ERRORLEVEL% EQU 2 goto exit_proced
 IF %ERRORLEVEL% EQU 1 goto sub_create_files
 

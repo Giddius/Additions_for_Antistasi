@@ -10,8 +10,8 @@ MD "Objects\%ITEMTYPE%_%MODSUFFIX%\ui"
 Echo folder for Object created
 Echo now starting subfolder creation
 Pause
-Echo Please enter all Variants (as abbrev.) for the item, use Enter after each Variant and when you are done Press "CTRL" and "Z" then "ENTER" to finish the input
-COPY CON temp_list.txt
+Echo Please enter all Variants (as abbrev.) for the item, use Enter after each Variant and when you are done: On a new line Press "CTRL" and "Z" then "ENTER" to finish the input
+TYPE CON > temp_list.txt
 
 For /F "tokens=1 delims= " %%G in (temp_list.txt) do MD "Objects\%ITEMTYPE%_%MODSUFFIX%\tex\%%G_%ITEMTYPE%_%MODSUFFIX%"
 
