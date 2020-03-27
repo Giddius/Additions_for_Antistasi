@@ -16,7 +16,7 @@ Adding items and factions to make Antistasi more immersive, less reliant on DLC 
 ## Current Submods
 
 ### Public Security
-(Folder name: **"pubsec"** )
+- (Folder name: **"pubsec"** )
  > * 3 Police Factions (Altis Constabulary Guard, Tanoa Garde champêtre, Registered Cossacks of Chernarus)
  > * Police Belt, Police Hat and Police Helmet as new models. With texture variants for the 3 factions.
  > * Re textured Uniforms for the 3 factions each 1 standard and 1 special forces unit uniform
@@ -24,12 +24,12 @@ Adding items and factions to make Antistasi more immersive, less reliant on DLC 
  > * Police station building in a large and small variant
 
 ### HQ extras
-(Folder name: **"hqextras"** )
+- (Folder name: **"hqextras"** )
  > * A new Bunker for the rebels to build, that is designed to not have the problems the current bunker causes
  > * A new Anti-Air static in the early stages of development
 
 ### Misc
-(Folder name: **"misc"** )
+- (Folder name: **"misc"** )
  > * Undercover Long Range Radio Backpack, with an extra variant with the radio part removed
 
 ---
@@ -46,7 +46,7 @@ currently, needs RHS for the first Wave (only because of the predefined Unit equ
 
 ## Contributing to the mod
 
-> **Note:** General Github help is always needed as this is also a new world for me.
+**Note:** General Github help is always needed as this is also a new world for me.
 
 ### Especially needed
 
