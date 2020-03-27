@@ -79,7 +79,7 @@ currently, needs RHS for the first Wave (only because of the predefined Unit equ
 #### :warning: Hard NO's
 
 >* This should not become a compendium for completely random stuff. Try to keep the "what it should be" guidelines in mind.
->* This shouldn't become a re texture mod as some many other are, if you need a few re textures for your sub mod that is ok, but if the sub mod is only re texture that's not.
+>* This shouldn't become a re texture mod as so many other are, if you need a few re textures for your sub mod that is ok, but if the sub mod is only re texture that's not.
 >* No weird external Addon Dependencies and actually try to remove any non-vanilla dependencies int he future
 >* **NO and Absolutely NO taking content (models, textures, whatever) from other Mods. Same thing regarding everything else, get something that is free, attribute the author, everything else is not wanted here.**
 >* If you take a script from somewhere look at its license first and ask for permission.
