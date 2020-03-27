@@ -15,8 +15,8 @@ MD "%~dp0..\Addons\%MODFOLDVAR%\misc\insignia"
 MD "%~dp0..\Addons\%MODFOLDVAR%\misc\logo"
 MD "%~dp0..\Addons\%MODFOLDVAR%\misc\marker"
 
-MD "%~dp0..\Addons\%MODFOLDVAR%\objects\ITEMTYPE_%MODSUFFIXVAR%\tex\VARIANT_ITEMTYPE_%MODSUFFIXVAR%"
-MD "%~dp0..\Addons\%MODFOLDVAR%\objects\ITEMTYPE_%MODSUFFIXVAR%\ui"
+MD "%~dp0..\Addons\%MODFOLDVAR%\objects"
+
 
 MD "%~dp0..\Addons\%MODFOLDVAR%\placeholder"
 
