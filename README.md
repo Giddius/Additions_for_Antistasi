@@ -100,7 +100,7 @@ currently, needs RHS for the first Wave (only because of the predefined Unit equ
 
 - [ ] create HQ extras sub mod folders
 - [ ] write how_to readme
-- [ ] create diagrams for structure
+- [x] create diagrams for structure
 - [ ] create visual guides for readme
 - [ ] create batch(?) file to automatically enter the "files called" in the header comments
 
