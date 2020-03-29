@@ -5,6 +5,7 @@
 
 ---
 # Additions for Antistasi by Broca Dilettante Studio Models [BDSM]
+=========
 
 **[Prerelease]**
 Arma 3 Mod
@@ -20,12 +21,12 @@ Adding items and factions to make Antistasi more immersive, less reliant on DLC 
 >
 > - on Discord (available through Antistasi Discord , name Giddi#5858)
 >
-> - <font size="+5"> **best way is to just open an Issue here!** </font>
+> - + Green. ***[best way is to just open an Issue here!](https://github.com/Giddius/Additions_for_Antistasi/issues/new)***
 >
 > I am completly open to making extra mods with only those parts for you.
 > When there are some interdependencies please just give me time to figure out how to solve them.
 
----
+***
 
 ## Current Submods
 
