@@ -184,7 +184,7 @@ I know macros are seen as bad coding, but for me they are preventing some stupid
 
 ## Authors
 
-Giddy
+Giddi
 
 ## License
 
