@@ -24,8 +24,7 @@
 # Additions for Antistasi by Broca Dilettante Studio Models [BDSM]
 
 
-**[Prerelease]**
-Arma 3 Mod
+## **[Prerelease]** Arma 3 Mod
 
 Adding items and factions to make Antistasi more immersive, less reliant on DLC and generally stuff to overcome limitations of Vanilla in Antistasi. Currently, not implemented directly by the Antistasi Devs, but I hope it will be. If you like the additions in general please let me know!
 
