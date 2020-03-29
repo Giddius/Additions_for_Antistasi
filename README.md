@@ -21,7 +21,7 @@ Adding items and factions to make Antistasi more immersive, less reliant on DLC 
 >
 > - on Discord (available through Antistasi Discord , name Giddi#5858)
 >
-> - + Green. ***[best way is to just open an Issue here!](https://github.com/Giddius/Additions_for_Antistasi/issues/new)***
+> - ***[best way is to just open an Issue here!](https://github.com/Giddius/Additions_for_Antistasi/issues/new)***
 >
 > I am completly open to making extra mods with only those parts for you.
 > When there are some interdependencies please just give me time to figure out how to solve them.
