@@ -73,6 +73,7 @@ All assets are intended for Antistasi, but the plan is to make them usable anywh
 * WiP
 
 
+
 ---
 
 ### Status
@@ -119,12 +120,14 @@ currently, needs RHS for the first Wave (only because of the predefined Unit equ
 
 #### :warning: Hard NO's
 
+
 * This should not become a compendium for completely random stuff. Try to keep the "what it should be" guidelines in mind.
 * This shouldn't become a re texture mod as some many other are, if you need a few re textures for your sub mod that is ok, but if the sub mod is only re texture that's not.
 * No weird external Addon Dependencies and actually try to remove any non-vanilla dependencies int he future
 * **NO and Absolutely NO taking content (models, textures, whatever) from other Mods. Same thing regarding everything else, get something that is free, attribute the author, everything else is not wanted here.**
 * If you take a script from somewhere look at its license first and ask for permission.
 * No new game mod or variant of antistasi as a whole
+
 
 #### :construction: Maybe's and ideas for the future
 
@@ -141,9 +144,10 @@ currently, needs RHS for the first Wave (only because of the predefined Unit equ
 
 - [ ] create HQ extras sub mod folders
 - [ ] write how_to readme
-- [ ] create diagrams for structure
+- [x] create diagrams for structure
 - [ ] create visual guides for readme
 - [ ] create batch(?) file to automatically enter the "files called" in the header comments
+- [ ] Add previews to the submod list above
 
 ***
 ---
@@ -171,7 +175,7 @@ I know macros are seen as bad coding, but for me they are preventing some stupid
 
 ## External Resources
 
-### Link to Blender files and unbinarized p3d
+### Link to Blender files and unbinarized p3d and textures in tga format
 
 **[Dropbox Link to the files, because they are to large for Github](https://www.dropbox.com/sh/aw8a5y7cvpguoxo/AACRZtDWg0pDCUJZYzMeObc7a?dl=0)**
 
