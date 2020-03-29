@@ -11,6 +11,11 @@ Arma 3 Mod
 
 Adding items and factions to make Antistasi more immersive, less reliant on DLC and generally stuff to overcome limitations of Vanilla in Antistasi. Currently, not implemented directly by the Antistasi Devs, but I hope it will be. If you like the additions in general please let me know!
 
+> ## Info for Antistasi Dev's or other Mission Dev's
+
+> If you like and want to use some parts or a single part of this mod (even single models) and not others, feel free to contact me here or on Discord. I am completly open to making extra mods with only those parts for you.
+> When there are some interdependencies please just give me time to figure out how to solve them.
+
 ---
 
 ## Current Submods
