@@ -5,7 +5,7 @@
 
 ---
 # Additions for Antistasi by Broca Dilettante Studio Models [BDSM]
-# =========
+
 
 **[Prerelease]**
 Arma 3 Mod
@@ -147,8 +147,8 @@ I know macros are seen as bad coding, but for me they are preventing some stupid
 **[Dropbox Link to the files, because they are to large for Github](https://www.dropbox.com/sh/aw8a5y7cvpguoxo/AACRZtDWg0pDCUJZYzMeObc7a?dl=0)**
 
 ### General Links
-- [Antistasi Github]()
-- [Antistasi Discord]()
+- ~[Antistasi Github]()~
+- ~[Antistasi Discord]()~
 
 
 
