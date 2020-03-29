@@ -62,7 +62,7 @@ Adding items and factions to make Antistasi more immersive, less reliant on DLC 
 #### Misc (Folder **["misc"](Addons/misc)** )
  > * Undercover Long Range Radio Backpack, with an extra variant with the radio part removed
 
-#### Medical extras (Folder **["misc"](Addons/medicalextras)** )
+#### Medical extras (Folder **["medicalextras"](Addons/medicalextras)** )
  > * WiP
 
 ### Status
