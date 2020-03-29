@@ -13,7 +13,7 @@ Adding items and factions to make Antistasi more immersive, less reliant on DLC 
 
 > ## Info for Antistasi Dev's or other Mission Dev's
 
-> If you like and want to use some parts or a single part of this mod (even single models) and not others, feel free to contact me here or on Discord. I am completly open to making extra mods with only those parts for you.
+> If you like and want to use some parts or a single part of this mod (even single models) and not others, feel free to contact me via Github email, on Discord (available through Antistasi Discord , name Giddi#5858) or **best way is to just open an Issue!** I am completly open to making extra mods with only those parts for you.
 > When there are some interdependencies please just give me time to figure out how to solve them.
 
 ---
