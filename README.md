@@ -2,6 +2,7 @@
 
 ![AfA](Info/images_github/afa_head_picture.jpeg)
 
+<p align="center">
 - **[Additions for Antistasi by Broca Dilettante Studio Models [BDSM]](#additions-for-antistasi-by-broca-dilettante-studio-models--bdsm-)**
 >  * **[Info for Antistasi Dev's or other Mission Dev's](#info-for-antistasi-dev-s-or-other-mission-dev-s)**
 >  * **[Infos](#Infos)**
@@ -10,6 +11,8 @@
 >  * **[External Resources](#external-resources)**
 >  * **[Authors](#authors)**
 >  * **[License](#license)**
+</p>
+
 
 <small><i><a href='http://ecotrust-canada.github.io/markdown-toc/'>Table of contents generated with markdown-toc</a></i></small>
 
@@ -60,7 +63,6 @@ Adding items and factions to make Antistasi more immersive, less reliant on DLC 
 (Folder name: **"misc"** )
  > * Undercover Long Range Radio Backpack, with an extra variant with the radio part removed
 
----
 
 ### Status
 
