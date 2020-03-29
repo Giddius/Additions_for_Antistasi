@@ -3,8 +3,8 @@
 ![AfA](Info/images_github/afa_head_picture.jpeg)
 
 
-<center>
-- **[Additions for Antistasi by Broca Dilettante Studio Models [BDSM]](#additions-for-antistasi-by-broca-dilettante-studio-models--bdsm-)**
+
+<center> - **[Additions for Antistasi by Broca Dilettante Studio Models [BDSM]](#additions-for-antistasi-by-broca-dilettante-studio-models--bdsm-)**
 >  * **[Info for Antistasi Dev's or other Mission Dev's](#info-for-antistasi-dev-s-or-other-mission-dev-s)**
 >  * **[Infos](#Infos)**
 >  * **[Contributing to the mod](#contributing-to-the-mod)**
