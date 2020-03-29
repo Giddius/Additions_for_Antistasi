@@ -19,7 +19,7 @@ Adding items and factions to make Antistasi more immersive, less reliant on DLC 
 >
 > - Github email
 >
-> - on Discord (available through Antistasi Discord , name Giddi#5858)
+> - on Discord (available through Antistasi Discord , name **Giddi#5858**)
 >
 > - ***[best way is to just open an Issue here!](https://github.com/Giddius/Additions_for_Antistasi/issues/new)***
 >
@@ -145,6 +145,11 @@ I know macros are seen as bad coding, but for me they are preventing some stupid
 ### Link to Blender files and unbinarized p3d
 
 **[Dropbox Link to the files, because they are to large for Github](https://www.dropbox.com/sh/aw8a5y7cvpguoxo/AACRZtDWg0pDCUJZYzMeObc7a?dl=0)**
+
+### General Links
+- [Antistasi Github]()
+- [Antistasi Discord]()
+
 
 
 ## Authors
