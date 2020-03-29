@@ -170,8 +170,8 @@ I know macros are seen as bad coding, but for me they are preventing some stupid
 **[Dropbox Link to the files, because they are to large for Github](https://www.dropbox.com/sh/aw8a5y7cvpguoxo/AACRZtDWg0pDCUJZYzMeObc7a?dl=0)**
 
 ### General Links
-- ~[Antistasi Github]()~
-- ~[Antistasi Discord]()~
+- [Antistasi Github](https://github.com/official-antistasi-community/A3-Antistasi)
+- [Antistasi Discord](https://discord.gg/Tt9qKj)
 
 ***
 ---
