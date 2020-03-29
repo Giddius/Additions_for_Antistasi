@@ -28,6 +28,10 @@
 
 Adding items and factions to make Antistasi more immersive, less reliant on DLC and generally stuff to overcome limitations of Vanilla in Antistasi. Currently, not implemented directly by the Antistasi Devs, but I hope it will be. If you like the additions in general please let me know!
 
+All assets are intended for Antistasi, but the plan is to make them usable anywhere, so not having antistasi or anything other as a dependency.
+
+*Please note: this is "Fan-made" and not affiliated witht he Antistasi development team. I am a frequent player that wants to provide models and tools, that the Dev's then can choose to implement*
+
 > ## Info for Antistasi Dev's or other Mission Dev's
 >
 >
