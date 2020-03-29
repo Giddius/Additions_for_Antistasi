@@ -48,7 +48,10 @@ All assets are intended for Antistasi, but the plan is to make them usable anywh
 
 ***
 ---
+
 ## Infos
+
+---
 
 ### Submods
 
@@ -68,6 +71,9 @@ All assets are intended for Antistasi, but the plan is to make them usable anywh
 
 #### Medical extras (Folder **["medicalextras"](Addons/medicalextras)** )
 * WiP
+
+
+---
 
 ### Status
 
