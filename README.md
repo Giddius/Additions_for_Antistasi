@@ -3,7 +3,7 @@
 ![AfA](Info/images_github/afa_head_picture.jpeg)
 
 
-<center>
+
 
 - **[Additions for Antistasi by Broca Dilettante Studio Models [BDSM]](#additions-for-antistasi-by-broca-dilettante-studio-models--bdsm-)**
 >  * **[Info for Antistasi Dev's or other Mission Dev's](#info-for-antistasi-dev-s-or-other-mission-dev-s)**
@@ -13,7 +13,7 @@
 >  * **[External Resources](#external-resources)**
 >  * **[Authors](#authors)**
 >  * **[License](#license)**
-</center>
+
 
 
 
