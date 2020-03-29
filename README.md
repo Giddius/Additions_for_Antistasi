@@ -3,19 +3,14 @@
 ![AfA](Info/images_github/afa_head_picture.jpeg)
 
 - [Additions for Antistasi by Broca Dilettante Studio Models [BDSM]](#additions-for-antistasi-by-broca-dilettante-studio-models--bdsm-)
-  * [Info for Antistasi Dev's or other Mission Dev's](#info-for-antistasi-dev-s-or-other-mission-dev-s)
-  * [Current Submods](#current-submods)
-  * [Status](#status)
-    + [Dependencies](#dependencies)
-  * [Contributing to the mod](#contributing-to-the-mod)
-    + [Especially needed](#especially-needed)
-    + [Format guides](#format-guides)
-    + [:vertical_traffic_light: What this mod should be and what not](#-vertical-traffic-light--what-this-mod-should-be-and-what-not)
-    + [General Todo](#general-todo)
-  * [A word on the quality and style](#a-word-on-the-quality-and-style)
-  * [External Resources](#external-resources)
-  * [Authors](#authors)
-  * [License](#license)
+>  * [Info for Antistasi Dev's or other Mission Dev's](#info-for-antistasi-dev-s-or-other-mission-dev-s)
+>  * [Current Submods](#current-submods)
+>  * [Status](#status)
+>  * [Contributing to the mod](#contributing-to-the-mod)
+>  * [A word on the quality and style](#a-word-on-the-quality-and-style)
+>  * [External Resources](#external-resources)
+>  * [Authors](#authors)
+>  * [License](#license)
 
 <small><i><a href='http://ecotrust-canada.github.io/markdown-toc/'>Table of contents generated with markdown-toc</a></i></small>
 
