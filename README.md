@@ -62,14 +62,14 @@ All assets are intended for Antistasi, but the plan is to make them usable anywh
 * re textured car and Little Bird for the 3 factions
 * Police station building in a large and small variant
 
-#### HQ extras (Folder **["hqextras"](Addons/hqextras)** )
+#### HQ additions (Folder **["hqadd"](Addons/hqadd)** )
 * A new Bunker for the rebels to build, that is designed to not have the problems the current bunker causes
 * A new Anti-Air static in the early stages of development
 
 #### Misc (Folder **["misc"](Addons/misc)** )
 * Undercover Long Range Radio Backpack, with an extra variant with the radio part removed
 
-#### Medical extras (Folder **["medicalextras"](Addons/medicalextras)** )
+#### Medical additions (Folder **["medicaladd"](Addons/medicaladd)** )
 * WiP
 
 
