@@ -181,7 +181,7 @@ I know macros are seen as bad coding, but for me they are preventing some stupid
 
 ### General Links
 - [Antistasi Github](https://github.com/official-antistasi-community/A3-Antistasi)
-- [Antistasi Discord](https://discord.gg/Tt9qKj)
+
 
 ***
 ---
