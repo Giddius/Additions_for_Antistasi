@@ -1,3 +1,5 @@
+# Examples
+All the folders and files in here are to show examples of the basic structure, but the best practice is to **use the Batch files provided under "tools".**
 
 ## Names
 

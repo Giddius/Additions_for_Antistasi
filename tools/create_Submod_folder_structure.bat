@@ -1,30 +1,37 @@
+:: Name:     create_Submod_folder_structure.bat
+:: Purpose:  creates the folder structure used by each Submod, in adherence with the format used in the Additions_for_Antistasi mod.
+:: Author:   Giddi
+:: Revision: 08.April.2020
+
 @echo off
 REM.-- Prepare the Command Processor --
 SETLOCAL ENABLEEXTENSIONS
 SETLOCAL ENABLEDELAYEDEXPANSION
 
+Rem Gets user input for the necessary Folder name and the Modsuffix that will be used.
+Rem Variable "MODFOLDVAR" is the Foldername.
+Rem Variable "MODSUFFIXVAR" is the Modsuffix.
 SET /P MODFOLDVAR=please enter the Modfolder name:
 SET /P MODSUFFIXVAR=please enter the Modsuffix, used for every asset:
 
+Rem Creates the basic folders with the previously inputed Foldername
 MD "%~dp0..\Addons\%MODFOLDVAR%\includes"
-
 MD "%~dp0..\Addons\%MODFOLDVAR%\macros"
-
+Rem -----------------------------------------
 MD "%~dp0..\Addons\%MODFOLDVAR%\misc\flags"
 MD "%~dp0..\Addons\%MODFOLDVAR%\misc\insignia"
 MD "%~dp0..\Addons\%MODFOLDVAR%\misc\logo"
 MD "%~dp0..\Addons\%MODFOLDVAR%\misc\marker"
-
+Rem -----------------------------------------
 MD "%~dp0..\Addons\%MODFOLDVAR%\objects"
-
-
 MD "%~dp0..\Addons\%MODFOLDVAR%\placeholder"
 
+Rem creates the macro definition file, that will be included at the beginning of the config.cpp.
 echo #define MODFOLDER %MODFOLDVAR% > "%~dp0..\Addons\%MODFOLDVAR%\Submod_name_macros.hpp"
 echo #define MODSUFFIX %MODSUFFIXVAR% >> "%~dp0..\Addons\%MODFOLDVAR%\Submod_name_macros.hpp"
 
 
-
+Rem creates a basic config.cpp with all the standard include calls.
 echo #define _ARMA_ >> "%~dp0..\Addons\%MODFOLDVAR%\config.cpp"
 echo. >> "%~dp0..\Addons\%MODFOLDVAR%\config.cpp"
 echo #include "Submod_name_macros.hpp" >> "%~dp0..\Addons\%MODFOLDVAR%\config.cpp"
@@ -46,7 +53,7 @@ echo 		requiredAddons[] = {"rhsusf_main","A3_Characters_F","A3_Data_f","A3_Weapo
 echo 	}; >> "%~dp0..\Addons\%MODFOLDVAR%\config.cpp"
 echo }; >> "%~dp0..\Addons\%MODFOLDVAR%\config.cpp"
 
-
+Rem creates basic model.config
 echo class CfgSkeletons >> "%~dp0..\Addons\%MODFOLDVAR%\Model.cfg"
 echo { >> "%~dp0..\Addons\%MODFOLDVAR%\Model.cfg"
 echo 	class Default >> "%~dp0..\Addons\%MODFOLDVAR%\Model.cfg"
@@ -210,6 +217,7 @@ echo 	}; >> "%~dp0..\Addons\%MODFOLDVAR%\Model.cfg"
 echo. 		 >> "%~dp0..\Addons\%MODFOLDVAR%\Model.cfg"
 echo }; >> "%~dp0..\Addons\%MODFOLDVAR%\Model.cfg"
 
+Rem Copies the Asset folder creator Batch file to the Submod base folder.
 COPY NOT_USE_FROM_HERE_create_object_folders.bat "%~dp0..\Addons\%MODFOLDVAR%\create_object_folder_and_files.bat"
 echo done
 PAUSE
