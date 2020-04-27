@@ -46,26 +46,15 @@ class CfgPatches //needs to always be in an Arma config
 		units[] = {};
 		weapons[] ={};
 		requiredVersion = 0.1;
-		requiredAddons[] = {"rhsusf_main","A3_Characters_F","A3_Data_f","A3_Weapons_F","A3_Characters_F_Proxies"}; //declaring needed external Addons. Worst-case will be corrected by PBO Project
+		requiredAddons[] = {"A3_Characters_F","A3_Data_f","A3_Weapons_F","A3_Characters_F_Proxies"}; //declaring needed external Addons. Worst-case will be corrected by PBO Project
 	};
 };
 
-
-//▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄_Editor Subcategories, Factions, Insignia, Markers_▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀//
-
-//combined file to generate Editor Subcategories, Factions, Insignia, Markers using XMacros
-#include "\AfA\Addons\pubsec\macros\X_EditorSubcat_Faction_Insignia_Marker.hpp"
 
 //▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄_Cfg Weapons_▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀//
 
 class CfgWeapons
 {
-	#include "\AfA\Addons\pubsec\macros\Hats_CfgWeapons.hpp" //generates Police Hat entries using XMacros
-
-	#include "\AfA\Addons\pubsec\macros\Helmets_CfgWeapons.hpp" //generates Police Helmet entries using XMacros
-
-	#include "\AfA\Addons\pubsec\macros\Vests_CfgWeapons.hpp" //generates Police Vests (currently only Belt) entries using XMacros
-
 	#include "\AfA\Addons\pubsec\macros\Uniforms_CfgWeapons.hpp" //generates Police Uniform entries using XMacros
 };
 

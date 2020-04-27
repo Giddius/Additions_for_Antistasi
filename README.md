@@ -1,28 +1,21 @@
 
-
 ![AfA](Info/images_github/afa_head_picture.jpeg)
 
-
-
-
 - **[Additions for Antistasi by Broca Dilettante Studio Models [BDSM]](#additions-for-antistasi-by-broca-dilettante-studio-models--bdsm-)**
->  * **[Info for Antistasi Dev's or other Mission Dev's](#info-for-antistasi-dev-s-or-other-mission-dev-s)**
->  * **[Infos](#Infos)**
->  * **[Contributing to the mod](#contributing-to-the-mod)**
->  * **[A word on the quality and style](#a-word-on-the-quality-and-style)**
->  * **[External Resources](#external-resources)**
->  * **[Authors](#authors)**
->  * **[License](#license)**
-
-
-
+>
+> * **[Info for Antistasi Dev's or other Mission Dev's](#info-for-antistasi-dev-s-or-other-mission-dev-s)**
+> * **[Infos](#Infos)**
+> * **[Contributing to the mod](#contributing-to-the-mod)**
+> * **[A word on the quality and style](#a-word-on-the-quality-and-style)**
+> * **[External Resources](#external-resources)**
+> * **[Authors](#authors)**
+> * **[License](#license)**
 
 <small><i><a href='http://ecotrust-canada.github.io/markdown-toc/'>Table of contents generated with markdown-toc</a></i></small>
 
-
 ---
-# Additions for Antistasi by Broca Dilettante Studio Models [BDSM]
 
+# Additions for Antistasi by Broca Dilettante Studio Models [BDSM]
 
 ## **[Prerelease]** Arma 3 Mod
 
@@ -31,7 +24,6 @@ Adding items and factions to make Antistasi more immersive, less reliant on DLC 
 All assets are intended for Antistasi, but the plan is to make them usable anywhere, so not having antistasi or anything other as a dependency.
 
 > **Please note: this is "Fan-made" and not affiliated witht he Antistasi development team. I am a frequent player that wants to provide models and tools, that the Dev's then can choose to implement!**
-
 > ## Info for Antistasi Dev's or other Mission Dev's
 >
 >
@@ -56,6 +48,7 @@ All assets are intended for Antistasi, but the plan is to make them usable anywh
 ### Submods
 
 #### Public Security (Folder : **["pubsec"](Addons/pubsec)** )
+
 * 3 Police Factions (Altis Constabulary Guard, Tanoa Garde champêtre, Registered Cossacks of Chernarus)
 * Police Belt, Police Hat and Police Helmet as new models. With texture variants for the 3 factions.
 * Re textured Uniforms for the 3 factions each 1 standard and 1 special forces unit uniform
@@ -63,16 +56,17 @@ All assets are intended for Antistasi, but the plan is to make them usable anywh
 * Police station building in a large and small variant
 
 #### HQ additions (Folder **["hqadd"](Addons/hqadd)** )
+
 * A new Bunker for the rebels to build, that is designed to not have the problems the current bunker causes
 * A new Anti-Air static in the early stages of development
 
 #### Misc (Folder **["misc"](Addons/misc)** )
+
 * Undercover Long Range Radio Backpack, with an extra variant with the radio part removed
 
 #### Medical additions (Folder **["medicaladd"](Addons/medicaladd)** )
+
 * WiP
-
-
 
 ---
 
@@ -86,6 +80,7 @@ currently, needs RHS for the first Wave (only because of the predefined Unit equ
 
 ***
 ---
+
 ## Contributing to the mod
 
 **Note:** General Github help is always needed as this is also a new world for me.
@@ -120,14 +115,12 @@ currently, needs RHS for the first Wave (only because of the predefined Unit equ
 
 #### :warning: Hard NO's
 
-
 * This should not become a compendium for completely random stuff. Try to keep the "what it should be" guidelines in mind.
 * This shouldn't become a re texture mod as some many other are, if you need a few re textures for your sub mod that is ok, but if the sub mod is only re texture that's not.
 * No weird external Addon Dependencies and actually try to remove any non-vanilla dependencies int he future
 * **NO and Absolutely NO taking content (models, textures, whatever) from other Mods. Same thing regarding everything else, get something that is free, attribute the author, everything else is not wanted here.**
 * If you take a script from somewhere look at its license first and ask for permission.
 * No new game mod or variant of antistasi as a whole
-
 
 #### :construction: Maybe's and ideas for the future
 
@@ -180,8 +173,8 @@ I know macros are seen as bad coding, but for me they are preventing some stupid
 **[Dropbox Link to the files, because they are to large for Github](https://www.dropbox.com/sh/aw8a5y7cvpguoxo/AACRZtDWg0pDCUJZYzMeObc7a?dl=0)**
 
 ### General Links
-- [Antistasi Github](https://github.com/official-antistasi-community/A3-Antistasi)
 
+- [Antistasi Github](https://github.com/official-antistasi-community/A3-Antistasi)
 
 ***
 ---
@@ -193,4 +186,3 @@ Giddi
 ## License
 
 TODO
-
