@@ -11,6 +11,15 @@
 
 class CfgEditorSubcategories
 {
+#define GEN_ED_SUBCAT(catname,catdisplayname) \
+	class bdsm_AfA_##catname##_EditSubCat_##MODSUFFIX \
+	{ \
+		displayname= catdisplayname ; \
+	};
+
+
+GEN_ED_SUBCAT(Structures,AfA Structures)
+
 
 	#define XVAR(VARIANTX,LONGNAMEX) \
 		class bdsm_AfA_##VARIANTX##_Infantry_EditSubCat_police \
@@ -49,6 +58,10 @@ class CfgEditorSubcategories
 		};
 	LIST_OF_XMAC
 #undef XVAR
+
+//-+-+-+-+-+-+-+-+-+-+-+-+-//
+
+
 
 };
 
